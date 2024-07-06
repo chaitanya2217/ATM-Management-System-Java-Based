@@ -16,7 +16,7 @@ Programming Language: Java for backend logic and business rules implementation.
 Database: MySQL for storing user account details, transaction logs, and ATM settings.(LDBC Connectivity)
 GUI Framework: Java- Swing frames for building the graphical user interface (GUI) for both customers and admin.
 
-4. Srenshots
+4. Screenshots :
    
 
 ![Screenshot 2024-07-06 200228](https://github.com/chaitanya2217/ATM-Management-System-Java-Based/assets/130820074/9de928b8-ac41-4537-a49e-78a8fe2c4c51)
