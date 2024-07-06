@@ -20,11 +20,9 @@ GUI Framework: Java- Swing frames for building the graphical user interface (GUI
    
 
 ![Screenshot 2024-07-06 200228](https://github.com/chaitanya2217/ATM-Management-System-Java-Based/assets/130820074/9de928b8-ac41-4537-a49e-78a8fe2c4c51)
-
+![image](https://github.com/chaitanya2217/ATM-Management-System-Java-Based/assets/130820074/a822d865-94ba-438a-94ad-adb59c670054)
 ![Screenshot 2024-07-06 200605](https://github.com/chaitanya2217/ATM-Management-System-Java-Based/assets/130820074/010cd254-0102-404a-abde-20c023199813)
-
-![Screenshot 2024-07-06 200316](https://github.com/chaitanya2217/ATM-Management-System-Java-Based/assets/130820074/ce7c20c5-70e2-44ec-ad78-794f58fbd27b)
-
+![Uploading Screenshot 2024-07-06 203437.png…]()
 ![Screenshot 2024-07-06 201631](https://github.com/chaitanya2217/ATM-Management-System-Java-Based/assets/130820074/5fb5e3c3-c312-4b39-9778-f3b04784ad89)
 
 
